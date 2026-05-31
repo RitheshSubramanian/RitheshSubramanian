@@ -1,9 +1,6 @@
 ### Hello there 👋, I'm ✨ **Rithesh Subramanian** ✨
 
-
-
-**Welcome to my page!**  
-I'm a **Site Reliability Engineer** from **Bengaluru, India** 🇮🇳 · based in **Bengaluru** 🏙️
+**Site Reliability Engineer** from **Bengaluru, India** 🇮🇳 · based in **Bengaluru** 🏙️
 
 ---
 
@@ -13,11 +10,11 @@ I'm a **Site Reliability Engineer** from **Bengaluru, India** 🇮🇳 · based 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srithesh11@gmail.com)
 
 - 🛰️ **Site Reliability Engineer** with **7+ years** designing and operating **enterprise observability** at scale.
-- 🏢 **Cisco** — architecting **multi-region OpenTelemetry → Splunk** pipelines across **6 regions** for **50,000+ VMs** and **20+ engineering teams**.
-- ☁️ Deep hands-on in **EKS**, **Terraform**, **ArgoCD** GitOps, **Thanos**, **Kafka (KRaft/Strimzi)**, and **ML-driven anomaly detection** on Prometheus metrics.
+- 🏢 **Cisco** — architecting **multi-region OpenTelemetry → Splunk** pipelines for **20+ engineering teams**.
+- ☁️ Deep hands-on in **EKS**, **Terraform**, **ArgoCD** GitOps, **Thanos**, **Kafka (KRaft/Strimzi)**, **Splunk Observability Cloud**, and **ML-driven anomaly detection** on Prometheus metrics.
 - 🎓 **MTech AI/ML** @ **BITS WILP** *(ongoing)* — NLP, LLMs, MLOps — building toward **intelligent, production-scale reliability**.
 - 🧰 Previously **Cloud Engineer @ Oracle** (OCI, enterprise DR & IaC) and **Software Engineer @ Torry Harris** (K8s platforms, AWS serverless ETL).
-- 💬 **Ask me about:** OpenTelemetry, Splunk Observability, Prometheus/Thanos, Kafka on Kubernetes, hybrid cloud telemetry, platform engineering, SRE practices, and predictive alerting.
+- 💬 **Ask me about:** Kubernetes, OpenTelemetry, Splunk Observability, Prometheus/Thanos, Kafka on Kubernetes, hybrid cloud telemetry, platform engineering, SRE practices, and predictive alerting.
 - 🌱 Currently leveling up in **AI/ML for observability** while shipping large-scale ingestion and GitOps platforms.
 
 ---
@@ -62,18 +59,6 @@ I'm a **Site Reliability Engineer** from **Bengaluru, India** 🇮🇳 · based 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 `Nomad` · `Consul` · `Istio` · `Helm` · `Vault` · `External Secrets` · `Cert-Manager` · `YACE` · `CloudWatch` · `ELK` · `Argo Workflows` · `Redis` · `PostgreSQL` · `MongoDB`
-
----
-
-### 💼 Highlights
-
-| Role | Company | Period |
-|------|---------|--------|
-| Site Reliability Engineer | **Cisco** | Jul 2023 – Present |
-| Cloud Engineer | **Oracle** | Dec 2021 – Jul 2023 |
-| Software Engineer | **Torry Harris** | 2018 – 2021 |
-
-**At Cisco (recent):** OTel gateway fleet (40+ instances) · EKS + ArgoCD greenfield · hub-and-spoke Thanos across 50+ AWS accounts · KRaft Kafka migration · ML anomaly detection (**~40% lower MTTR**)
 
 ---
 
