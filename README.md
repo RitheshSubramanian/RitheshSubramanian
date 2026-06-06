@@ -13,8 +13,8 @@
 - 🏢 **Cisco** — architecting **multi-region OpenTelemetry → Splunk** pipelines for **20+ engineering teams**.
 - ☁️ Deep hands-on in **EKS**, **Terraform**, **ArgoCD** GitOps, **Thanos**, **Kafka (KRaft/Strimzi)**, **Splunk Observability Cloud**, and **ML-driven anomaly detection** on Prometheus metrics.
 - 🎓 **MTech AI/ML** @ **BITS WILP** *(ongoing)* — NLP, LLMs, MLOps — building toward **intelligent, production-scale reliability**.
-- 🧰 Previously **Cloud Engineer @ Oracle** (OCI, enterprise DR & IaC) and **Software Engineer @ Torry Harris** (K8s platforms, AWS serverless ETL).
-- 💬 **Ask me about:** Kubernetes, OpenTelemetry, Splunk Observability, Prometheus/Thanos, Kafka on Kubernetes, hybrid cloud telemetry, platform engineering, SRE practices, and predictive alerting.
+- 🧰 Previously **Cloud Engineer @ Oracle** (OCI, DevOps (OKE) & IaC) and **Software Engineer @ Torry Harris** (Middleware Integration, K8s platforms, AWS serverless ETL, Automation, DevOps and Infra Management).
+- 💬 **Ask me about:** Kubernetes, OpenTelemetry, Splunk Observability, Prometheus/Thanos, Kafka on Kubernetes, hybrid cloud telemetry, Infrastructure Management, platform engineering, SRE practices, and predictive alerting.
 - 🌱 Currently leveling up in **AI/ML for observability** while shipping large-scale ingestion and GitOps platforms.
 
 ---
